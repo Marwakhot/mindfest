@@ -1,0 +1,61 @@
+sku,location,units,source_file,loaded_at,as_of
+CHG-01,Dubai,60,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-01,Abu Dhabi,60,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-01,Sharjah,40,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-02,Dubai,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-02,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-02,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-03,Dubai,35,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-03,Abu Dhabi,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-03,Sharjah,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-04,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-04,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-04,Sharjah,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-01,Dubai,60,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-01,Abu Dhabi,35,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-01,Sharjah,30,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-02,Dubai,30,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-02,Abu Dhabi,20,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-02,Sharjah,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-03,Dubai,35,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-03,Abu Dhabi,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-03,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-04,Dubai,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-04,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-04,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-01,Dubai,35,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-01,Abu Dhabi,30,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-01,Sharjah,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-02,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-02,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-02,Sharjah,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-03,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-03,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-03,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-04,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-04,Abu Dhabi,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-04,Sharjah,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-01,Dubai,30,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-01,Abu Dhabi,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-01,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-02,Dubai,30,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-02,Abu Dhabi,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-02,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-03,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-03,Abu Dhabi,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-03,Sharjah,5,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-04,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-04,Abu Dhabi,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-04,Sharjah,5,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-01,Dubai,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-01,Abu Dhabi,20,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-01,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-02,Dubai,25,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-02,Abu Dhabi,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-02,Sharjah,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-03,Dubai,15,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-03,Abu Dhabi,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-03,Sharjah,10,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-04,Dubai,5,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-04,Abu Dhabi,5,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-04,Sharjah,5,safety_stock.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

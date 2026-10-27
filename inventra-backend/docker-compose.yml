@@ -1,0 +1,30 @@
+services:
+  inventra:
+    build: .
+    image: inventra-backend:latest
+    container_name: inventra
+    ports:
+      - "127.0.0.1:8000:8000"   # local only; not exposed to the network
+    env_file:
+      - path: .env              # optional: LLM keys stay out of the image
+        required: false
+    environment:
+      RUNTIME_DIR: /app/runtime
+      HOME: /tmp                        # root filesystem is read-only
+      WATCHER_ENABLED: "1"
+      WATCHER_POLLING: "1"
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
+    volumes:
+      - inventra-runtime:/app/runtime   # DuckDB file, archive, quarantine survive restarts
+      - ./inbox:/app/runtime/inbox      # drop CSVs here; the watcher picks them up
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: unless-stopped
+
+volumes:
+  inventra-runtime:

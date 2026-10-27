@@ -1,0 +1,10 @@
+po_id,sku,location,qty,planned_eta_plan_day,arrives,realised_eta_plan_day,realised_eta,source_file,loaded_at,as_of
+PO-101,CHG-02,Dubai,100,15,True,26,2026-11-22,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-102,PWB-02,Dubai,100,12,True,23,2026-11-19,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-103,CHG-03,Sharjah,100,18,True,29,2026-11-25,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-104,CHG-01,Abu Dhabi,100,20,True,31,,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-105,CBL-01,Dubai,200,10,True,21,2026-11-17,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-106,KBD-02,Abu Dhabi,50,14,True,25,2026-11-21,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-107,KBD-03,Sharjah,50,9,True,9,2026-11-05,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-108,MSE-01,Sharjah,200,6,True,6,2026-11-02,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-109,CBL-04,Abu Dhabi,200,16,True,16,2026-11-12,inbound_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

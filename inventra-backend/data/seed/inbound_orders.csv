@@ -1,0 +1,10 @@
+po_id,sku,location,qty,eta,supplier,route,status,changeable,expedite_days,expedite_cost_aed,source_file,loaded_at,as_of
+PO-101,CHG-02,Dubai,100,2026-11-11,SUP-CHG,R1,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-102,PWB-02,Dubai,100,2026-11-08,SUP-PWB,R1,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-103,CHG-03,Sharjah,100,2026-11-14,SUP-CHG,R1,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-104,CHG-01,Abu Dhabi,100,2026-11-16,SUP-CHG,R1,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-105,CBL-01,Dubai,200,2026-11-06,SUP-CBL,R2,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-106,KBD-02,Abu Dhabi,50,2026-11-10,SUP-PER,R2,Confirmed,True,4,200,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-107,KBD-03,Sharjah,50,2026-11-05,SUP-PER,R1,Confirmed,True,3,150,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-108,MSE-01,Sharjah,200,2026-11-02,SUP-PER,R1,Unconfirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PO-109,CBL-04,Abu Dhabi,200,2026-11-12,SUP-CBL,R1,Confirmed,False,,,inbound_orders.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

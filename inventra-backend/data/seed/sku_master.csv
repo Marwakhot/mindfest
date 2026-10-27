@@ -1,0 +1,21 @@
+sku,name,category,components,unit_cost,unit_price,pack_size,moq,supplier,inbound_route,source_file,loaded_at,as_of
+CHG-01,USB-C 20W charger,Chargers,power_management_ic;usb_pd_controller;housing,40.0,75.0,10,100,SUP-CHG,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-02,USB-C 65W charger,Chargers,power_management_ic;usb_pd_controller;gan_transistor;housing,85.0,140.0,10,100,SUP-CHG,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-03,Dual-port USB-A charger,Chargers,power_management_ic;housing,25.0,45.0,10,100,SUP-CHG,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CHG-04,Wireless charging pad,Chargers,power_management_ic;charging_coil;housing,45.0,80.0,10,100,SUP-CHG,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-01,"USB-C to USB-C cable, 1 m",Cables,copper_wire;usb_c_connector,12.0,22.0,10,200,SUP-CBL,R2,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-02,"USB-A to Lightning cable, 1 m",Cables,copper_wire;usb_a_connector;lightning_connector,9.5,15.0,10,200,SUP-CBL,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-03,"USB-C braided cable, 2 m",Cables,copper_wire;usb_c_connector;braided_jacket,18.0,32.0,10,200,SUP-CBL,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+CBL-04,"HDMI cable, 2 m",Cables,copper_wire;hdmi_connector,14.0,25.0,10,200,SUP-CBL,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-01,"Power bank, 10,000 mAh",Power banks,power_management_ic;li_ion_cell;housing,55.0,95.0,10,100,SUP-PWB,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-02,"Power bank, 20,000 mAh",Power banks,power_management_ic;li_ion_cell;housing,85.0,145.0,10,100,SUP-PWB,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-03,"Slim power bank, 5,000 mAh",Power banks,power_management_ic;li_po_cell;housing,45.0,75.0,10,100,SUP-PWB,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+PWB-04,"Magnetic power bank, 5,000 mAh",Power banks,power_management_ic;li_po_cell;charging_coil;magnet_ring,70.0,120.0,10,100,SUP-PWB,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-01,Wireless mouse,Mice,optical_sensor;rf_receiver;switches;housing,30.0,55.0,10,100,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-02,Wired optical mouse,Mice,optical_sensor;switches;usb_cable;housing,12.0,22.0,10,100,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-03,Ergonomic mouse,Mice,optical_sensor;rf_receiver;switches;housing,60.0,105.0,10,100,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+MSE-04,Gaming mouse,Mice,optical_sensor;switches;usb_cable;housing,90.0,160.0,10,100,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-01,Wireless keyboard,Keyboards,key_switches;rf_receiver;housing,55.0,95.0,5,50,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-02,Wired keyboard,Keyboards,key_switches;usb_cable;housing,25.0,45.0,5,50,SUP-PER,R2,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-03,Keyboard and mouse combo,Keyboards,key_switches;optical_sensor;rf_receiver;housing,80.0,135.0,5,50,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+KBD-04,Compact keyboard,Keyboards,key_switches;usb_cable;housing,65.0,110.0,5,50,SUP-PER,R1,sku_master.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

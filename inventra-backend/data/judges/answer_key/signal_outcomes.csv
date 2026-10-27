@@ -1,0 +1,4 @@
+signal_id,happened,realised_delay_days,realised_uplift,source_file,loaded_at,as_of
+SIG-001,True,11,,signal_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+SIG-002,True,11,,signal_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+SIG-003,True,,0.358,signal_outcomes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

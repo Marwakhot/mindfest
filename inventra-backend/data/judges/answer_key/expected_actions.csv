@@ -1,0 +1,13 @@
+case_id,description,expected_action,source_file,loaded_at,as_of
+1,CHG-01 imbalance across all three locations (worked example 10.4),Dubai-only before the disruption; split after it; full Dubai transfer rejected,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+2,CBL-03 and MSE-02 have stockout periods,"Corrected forecast above observed sales, with out-of-stock days shown",expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+3,Sharjah missing days 61 to 67 for all SKUs,"Gap flagged, days imputed as Estimate, confidence lowered",expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+4,KBD-04 batches 90+ days old in Dubai,Flagged Aged; oldest batches picked first in any transfer,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+5,CBL-02 short in Abu Dhabi; only Sharjah has spare,Transfer rejected: lane cost exceeds margin protected (about AED 600 vs 220),expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+6,PWB-01 short at all three locations,Reorder; order-by date includes the SIG-001 delay; Draft PO,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+7,KBD-03 excess in Sharjah with a changeable inbound PO,Reduce or delay the inbound PO,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+8,SIG-001 semiconductor shortage,Only CHG and PWB SKUs affected,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+9,SIG-002 route delay on R2,Only the CBL-01 and KBD-02 POs on R2 affected,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+10,SIG-003 Abu Dhabi tender,Uplift on MSE-01 and KBD-01 at Abu Dhabi only,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+11,Unconfirmed 200-unit MSE-01 PO into Sharjah flips the best way to meet the tender,One targeted question,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+12,CHG-01 Abu Dhabi stock record says 100; a later cycle count says 160,Validation flags the mismatch; planner corrects with the count as evidence; approved decision turns Stale,expected_actions.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

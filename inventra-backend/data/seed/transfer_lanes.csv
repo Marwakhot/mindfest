@@ -1,0 +1,7 @@
+from_loc,to_loc,fixed_cost_aed,cost_per_unit_aed,lead_days,source_file,loaded_at,as_of
+Dubai,Sharjah,100,0.5,1,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Sharjah,Dubai,100,0.5,1,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Dubai,Abu Dhabi,250,1.5,1,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Abu Dhabi,Dubai,250,1.5,1,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Sharjah,Abu Dhabi,400,5.0,2,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Abu Dhabi,Sharjah,400,5.0,2,transfer_lanes.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

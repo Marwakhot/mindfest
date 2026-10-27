@@ -1,0 +1,15 @@
+# Only the two app folders are part of this repo
+/stockpilot-data/
+/stockpilot-*.zip
+/.claude/
+.DS_Store
+
+# Local environments, secrets and runtime data
+**/.venv/
+**/.env
+**/runtime/
+**/inbox/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+/inventra-frontend/.claude/

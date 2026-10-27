@@ -1,0 +1,15 @@
+name,value,unit,description,changed_by,changed_at,source_file,loaded_at,as_of
+horizon_days,30,days,Planning horizon,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+max_cover_days,45,days,"Excess flag, PO cap, guardrail",system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+ageing_days,60,days,"Ageing tier, ageing cost",system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+aged_days,90,days,"Aged tier, aged-stock metric",system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+ageing_cost_pct_per_30_days,1.5,% of unit cost,Net benefit,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+review_buffer_days,2,days,Order-by date,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+review_period_days,7,days,Reorder quantity,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+base_rate_window_days,28,days,"Forecast, baseline",system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+low_confidence_band_widening,25,%,Forecast band,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+confidence_thresholds,10;25;20,% days imputed or OOS; % ; units sold,Confidence badge: 10% and 25% of days imputed or out of stock; 20 units sold,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+urgency_soon_days,5,days,Urgency badge,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+freshness_days,2,days,Freshness banner,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+baseline_reorder_days,30,days,Baseline replay,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+backtest_step_days,15,days,Forecast backtests and bands,system (seed),2026-10-27T06:00:00,planning_parameters.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

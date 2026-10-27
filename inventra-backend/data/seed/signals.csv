@@ -1,0 +1,3 @@
+signal_id,date,source,type,components,routes,skus,locations,delay_min,delay_likely,delay_max,uplift_min,uplift_likely,uplift_max,start_day,end_day,status,source_file,loaded_at,as_of
+SIG-002,2026-10-25,Freight forwarder notice (fictional),supply,,R2,,,3,7,12,,,,1,30,Unverified,signals.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+SIG-003,2026-10-24,Sales team note (fictional),demand,,,MSE-01;KBD-01,Abu Dhabi,,,,0.3,0.5,0.8,8,21,Unverified,signals.csv,2026-10-27T06:00:00,2026-10-27T06:00:00

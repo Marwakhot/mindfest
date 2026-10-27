@@ -1,0 +1,4 @@
+location,cost_per_unit_day_aed,source_file,loaded_at,as_of
+Dubai,0.04,holding_costs.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Abu Dhabi,0.035,holding_costs.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
+Sharjah,0.03,holding_costs.csv,2026-10-27T06:00:00,2026-10-27T06:00:00
